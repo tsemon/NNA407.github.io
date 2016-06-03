@@ -1,6 +1,7 @@
-name: Dat site title tho
+name: Introduction, Development, Turn and Deeplearning
 markdown: redcarpet
 pygments: true
-description: "Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-url: "jekyll-new.joelglovier.com"
+description: "공부는 안하고 맨날 노는 박사과정의 수업을 위해 만든 static blog"
+#description: "Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: "nna407.github.io"
 permalink: /posts/:title
