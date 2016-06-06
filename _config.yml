@@ -1,6 +1,20 @@
-name: Dat site title tho
-markdown: redcarpet
-pygments: true
-description: "Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-url: "jekyll-new.joelglovier.com"
-permalink: /posts/:title
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Introduction, Development, Turn and Deeplearning
+email: jinhokim.07@gmail.com
+#description: > # this means to ignore newlines until "baseurl:"
+#  Jannik Richter, jannik811@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: icbf98
+github_username:  NNA407
+
+# Build settings
+markdown: kramdown
+#markdown: redcarpet
